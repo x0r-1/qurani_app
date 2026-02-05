@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "سورة الفاتحة",
+    "artist": "مشاري العفاسي",
+    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
+    "image": "https://www.vecteezy.com/free-photos/quran",
+    "category": "قرآن"
+  },
+  {
+    "id": "2",
+    "title": "صوت ",
+    "artist": "الأصمعي",
+    "url": "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3",
+    "image": "https://www.vecteezy.com/free-photos/quran",
+    "category": "شعر"
+  }
+]
